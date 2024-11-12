@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="DELETE">
+        <collection>x_58872_needit_needit_task</collection>
+        <email_layout display_value="Demo Layout - Dark">f03ea9717f1312007f005212bdfa919b</email_layout>
+        <message/>
+        <message_html><![CDATA[<p>TEST</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>mailto.&lt;name&gt;</name>
+        <sms_alternate/>
+        <subject/>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-12 12:05:12</sys_created_on>
+        <sys_id>19781d0e83f5d610de1ec765eeaad378</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>mailto.&lt;name&gt;</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_email_template_19781d0e83f5d610de1ec765eeaad378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-12 12:06:48</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>afe86f81db5ebd1cf697684e13961914</instance_id>
+        <instance_name>dev201840</instance_name>
+        <name>sysevent_email_template_19781d0e83f5d610de1ec765eeaad378</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sysevent_email_template"&gt;&lt;sysevent_email_template action="INSERT_OR_UPDATE"&gt;&lt;collection&gt;x_58872_needit_needit_task&lt;/collection&gt;&lt;email_layout display_value="Demo Layout - Dark"&gt;f03ea9717f1312007f005212bdfa919b&lt;/email_layout&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;TEST&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;mailto.&amp;lt;name&amp;gt;&lt;/name&gt;&lt;sms_alternate/&gt;&lt;subject/&gt;&lt;sys_class_name&gt;sysevent_email_template&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-11-12 12:05:12&lt;/sys_created_on&gt;&lt;sys_id&gt;19781d0e83f5d610de1ec765eeaad378&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;mailto.&amp;lt;name&amp;gt;&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_template_19781d0e83f5d610de1ec765eeaad378&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-11-12 12:06:48&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;/sysevent_email_template&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-289367885</payload_hash>
+        <record_name>mailto.&lt;name&gt;</record_name>
+        <reverted_from/>
+        <source>e360ad7183359610de1ec765eeaad394</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-12 12:06:48</sys_created_on>
+        <sys_id>ac59954e83f5d610de1ec765eeaad3c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1932044edab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-12 12:06:48</sys_updated_on>
+        <type>Email Template</type>
+        <update_guid>2459954e4af5d610b9d4cf142d3173c5</update_guid>
+        <update_guid_history>2459954e4af5d610b9d4cf142d3173c5:-289367885,7029994e33f5d61032cb3df70b96b51b:1244288067,09f8954eb1f5d6105d927637803fe91d:1188045110</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-12 12:08:23</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_template">sysevent_email_template</sys_db_object>
+        <sys_id>4bb5e52e55cf4000898269e338f91040</sys_id>
+        <sys_metadata>19781d0e83f5d610de1ec765eeaad378</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mailto.&lt;name&gt;</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt Task">3196727183f99610de1ec765eeaad37f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sysevent_email_template_19781d0e83f5d610de1ec765eeaad378</sys_update_name>
+        <sys_update_version display_value="sysevent_email_template_19781d0e83f5d610de1ec765eeaad378">ac59954e83f5d610de1ec765eeaad3c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-12 12:08:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
